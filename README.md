@@ -8,12 +8,14 @@ This GitHub repository provides for two microphone MVDR beamformer+Speech enhanc
 
 The paper has been accepted at the 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Quebec, Canada, 2020.
 
+Also, you can find another paper for this GitHub repository : https://ieeexplore.ieee.org/document/8512369
+
 ## Audio Demo
 https://utdallas.edu/ssprl/hearing-aid-project/speech-enhancement/minimum-variance-distortionless-response-mvdr/
 
 ## Requirements 
 
-- For Android implementation, Pixel 1 smartphone was considered.
+- For Android implementation, Pixel 1 smartphone running Android 7.1 Nougat operating system was considered.
 
 ## License and Citation
 The codes are licensed under MIT license.
