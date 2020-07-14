@@ -16,7 +16,7 @@ https://utdallas.edu/ssprl/hearing-aid-project/speech-enhancement/minimum-varian
 - For Android implementation, Pixel 1 smartphone running Android 7.1 Nougat operating system was considered.
 
 ## License and Citation
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
