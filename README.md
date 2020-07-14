@@ -1,5 +1,3 @@
-# MVDR-Speech-Enhancement
-
 # Real-time dual-channel speech enhancement by VAD assisted MVDR beamformer and SGJMAP for hearing aid applications using smartphone
 
 ## Overview
